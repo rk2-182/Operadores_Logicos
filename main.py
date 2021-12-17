@@ -47,6 +47,13 @@ print(((a>b) or (a<c)) and ((a==c) or (a>=b)))
 5.->,< ==, >=, <=, !=, or
 """
 
+print("\n------------------------")
+#ejercicio operadores logicos
+a = 10
+b = 15
+c = 20
 
+resultado = ((a<b) and (b<c))
+print(resultado)
 
 
